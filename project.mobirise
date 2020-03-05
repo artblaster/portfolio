@@ -1818,7 +1818,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Character Portrait Sketch",
                 "active": false
               },
               {
@@ -1831,7 +1831,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Character Idea Sketch",
                 "active": false
               },
               {
@@ -1844,7 +1844,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Unicycle Turtle Sketch",
                 "active": false
               },
               {
@@ -1857,7 +1857,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Mage Girl Concept",
                 "active": false
               },
               {
@@ -1870,7 +1870,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Female Sketch",
                 "active": false
               },
               {
@@ -1883,7 +1883,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Mage Girl Concept",
                 "active": false
               },
               {
@@ -1896,7 +1896,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "DnD Monk (Commission)",
                 "active": false
               },
               {
@@ -1909,7 +1909,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Rogue Tabaxi (Commission)",
                 "active": false
               },
               {
@@ -1922,7 +1922,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "DnD Bard (Commission)",
                 "active": false
               },
               {
@@ -1935,7 +1935,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Sci Fi Female Concept",
                 "active": false
               },
               {
@@ -1948,7 +1948,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "DnD Monk (Commission)",
                 "active": false
               },
               {
@@ -1961,7 +1961,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Super Hero Concept",
                 "active": false
               },
               {
@@ -1974,7 +1974,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "DnD Character (Commission)",
                 "active": false
               },
               {
@@ -1987,7 +1987,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Teenage Fighting Food Dudes Issue #1 Cover",
                 "active": false
               },
               {
@@ -2000,7 +2000,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Female Elf Portrait",
                 "active": false
               },
               {
@@ -2013,7 +2013,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Dark Elf",
                 "active": true
               },
               {
@@ -2026,7 +2026,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Female Concept",
                 "active": false
               },
               {
@@ -2036,10 +2036,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/different-token.png",
                 "thumb": "@PROJECT_PATH@/assets/images/different-token-800x850.png",
-                "alt": "",
-                "title": "",
+                "alt": "DnD Tiefling Token",
+                "title": "DnD Tiefling Token",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "DnD Tiefling Token",
                 "active": false
               },
               {
@@ -2049,10 +2049,10 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/dmc-tokens.png",
                 "thumb": "@PROJECT_PATH@/assets/images/dmc-tokens-800x513.png",
-                "alt": "",
+                "alt": "DnD Character Tokens",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "DnD Character Tokens",
                 "active": false
               },
               {
@@ -2065,7 +2065,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "DnD Character Portraits",
                 "active": false
               },
               {
@@ -2091,7 +2091,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Logo Concept",
                 "active": false
               },
               {
@@ -2104,7 +2104,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Wolf Logo (Commission)",
                 "active": false
               },
               {
@@ -2117,7 +2117,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Logo for Hyperblast Youtube",
                 "active": false
               },
               {
@@ -2130,7 +2130,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Tear of Grace Bottle Graphic",
                 "active": false
               }
             ]
@@ -2269,8 +2269,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/game-grumps-zine-small.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/game-grumps-zine-small-750x1052.jpg",
-                "alt": "",
-                "title": "",
+                "alt": "Game Grumps Zine V",
+                "title": "Game Grumps Zine V",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2282,8 +2282,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/batman2.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/batman2-750x1159.jpg",
-                "alt": "",
-                "title": "",
+                "alt": "Batman",
+                "title": "Batman",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2308,8 +2308,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/masseffectgirl.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/masseffectgirl-800x800.jpg",
-                "alt": "",
-                "title": "",
+                "alt": "Armor Concept (Mass Effect)",
+                "title": "Armor Concept (Mass Effect)",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2347,8 +2347,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/caleb-criticalrole-small.png",
                 "thumb": "@PROJECT_PATH@/assets/images/caleb-criticalrole-small-800x684.png",
-                "alt": "",
-                "title": "",
+                "alt": "Caleb (Critical Role)",
+                "title": "Caleb (Critical Role)",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
