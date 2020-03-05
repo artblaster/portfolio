@@ -1897,7 +1897,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Line Art",
@@ -2014,20 +2014,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Color",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/bountyhunter.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bountyhunter-750x1198.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Color",
@@ -2308,8 +2295,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/hellboyprint.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hellboyprint-750x1159.jpg",
-                "alt": "",
-                "title": "",
+                "alt": "Hell Boy",
+                "title": "Hell Boy",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2334,8 +2321,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/garrus.png",
                 "thumb": "@PROJECT_PATH@/assets/images/garrus-750x809.png",
-                "alt": "",
-                "title": "",
+                "alt": "Garrus Vakarian (Mass Effect)",
+                "title": "Garrus Vakarian (Mass Effect)",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2347,8 +2334,8 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/paya.png",
                 "thumb": "@PROJECT_PATH@/assets/images/paya-750x967.png",
-                "alt": "",
-                "title": "",
+                "alt": "Paya (Zelda)",
+                "title": "Paya (Zelda)",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
@@ -2362,6 +2349,19 @@
                 "thumb": "@PROJECT_PATH@/assets/images/caleb-criticalrole-small-800x684.png",
                 "alt": "",
                 "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Color",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bountyhunter-1-750x1198.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bountyhunter-1-750x1198-750x1198.png",
+                "alt": "Bounty Hunter (Star Wars)",
+                "title": "Bounty Hunter (Star Wars)",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
