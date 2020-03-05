@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "artblaster",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1826,6 +1826,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-10-23-11-08-15-clip-studio-paint-1089x1088.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-10-23-11-08-15-clip-studio-paint-1089x1088-800x799.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Character Portrait Sketch",
+                "active": true
+              },
+              {
+                "tags": "Sketches",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/2020-03-02-22-51-53-clip-studio-paint.png",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-03-02-22-51-53-clip-studio-paint-800x740.png",
                 "alt": "",
@@ -2014,7 +2027,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Dark Elf",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Color",
@@ -2263,6 +2276,32 @@
             "gallery__filtersBtnStyle": "btn-warning-outline",
             "gallery": [
               {
+                "tags": "Sketches",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-10-25-10-21-32-window-1025x1101.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-10-25-10-21-32-window-1025x1101-800x859.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2019-10-24-09-31-55-clip-studio-paint-1134x965.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2019-10-24-09-31-55-clip-studio-paint-1134x965-800x681.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
                 "tags": "Color",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -2364,7 +2403,7 @@
                 "title": "Bounty Hunter (Star Wars)",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
