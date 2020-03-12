@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "artblaster",
-    "currentPage": "index.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2014,7 +2014,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Character Portrait Sketch",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Color",
@@ -2095,7 +2095,7 @@
                 "active": false
               },
               {
-                "tags": "Misc",
+                "tags": "Logos",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2105,10 +2105,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Misc",
+                "tags": "Logos",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2121,7 +2121,7 @@
                 "active": false
               },
               {
-                "tags": "Misc",
+                "tags": "Logos",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2134,7 +2134,7 @@
                 "active": false
               },
               {
-                "tags": "Misc",
+                "tags": "Logos",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2147,7 +2147,7 @@
                 "active": false
               },
               {
-                "tags": "Misc",
+                "tags": "Logos",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2477,6 +2477,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/tracer-1000x1414.png",
                 "thumb": "@PROJECT_PATH@/assets/images/tracer-1000x1414-800x1131.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Color",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/link-item-2000x3091.png",
+                "thumb": "@PROJECT_PATH@/assets/images/link-item-2000x3091-800x1236.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
