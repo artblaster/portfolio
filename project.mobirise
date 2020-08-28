@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "artblaster",
-    "currentPage": "about.html",
+    "currentPage": "gallery.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1813,6 +1813,45 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/girl-sketch-8-14-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/girl-sketch-8-14-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "DnD Character Portraits",
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/girl-sketch-8-28-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/girl-sketch-8-28-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "DnD Character Portraits",
+                "active": false
+              },
+              {
+                "tags": "Sketches",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/girl-sketch-8-27-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/girl-sketch-8-27-2000x2000-800x800.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "DnD Character Portraits",
+                "active": true
+              },
+              {
+                "tags": "Sketches",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/2020-02-24-23-40-29-window.png",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-02-24-23-40-29-window-800x799.png",
                 "alt": "",
@@ -2105,7 +2144,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "DnD Character Portraits",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Logos",
