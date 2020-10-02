@@ -23,7 +23,7 @@
         "display7Size": 1,
         "display4Font": "Roboto",
         "display4Size": "1.2",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       },
@@ -1806,7 +1806,7 @@
           "_params": {
             "text_all": "All",
             "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-warning-outline",
+            "gallery__filtersBtnStyle": "btn-secondary",
             "gallery": [
               {
                 "tags": "Sketches",
@@ -2364,7 +2364,7 @@
           "_params": {
             "text_all": "All",
             "gallery__filtersTextStyle": "display-4",
-            "gallery__filtersBtnStyle": "btn-warning-outline",
+            "gallery__filtersBtnStyle": "btn-secondary",
             "gallery": [
               {
                 "tags": "Sketches",
