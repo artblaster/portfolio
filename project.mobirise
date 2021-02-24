@@ -1814,13 +1814,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/girl-sketch-8-14-2000x2000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/girl-sketch-8-14-2000x2000-800x800.png",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/2021-02-24-10-23-58-window-1268x1274.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2021-02-24-10-23-58-window-1268x1274-800x804.png",
+                "alt": "Haruko Realism",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Realism Sketch",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Sketches",
@@ -2067,7 +2067,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Female Elf Portrait",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Color",
