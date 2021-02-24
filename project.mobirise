@@ -2061,6 +2061,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/2021-02-24-10-19-15-window-948x1284.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2021-02-24-10-19-15-window-948x1284-800x1084.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Female Elf Portrait",
+                "active": true
+              },
+              {
+                "tags": "Color",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/2020-03-16-21-39-42-window-794x1173.png",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-03-16-21-39-42-window-794x1173-794x1173.png",
                 "alt": "",
@@ -2132,7 +2145,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Dragon eye Graphic",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Color",
