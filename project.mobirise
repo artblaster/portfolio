@@ -1814,19 +1814,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2021-02-24-10-23-58-window-1268x1274.png",
-                "thumb": "@PROJECT_PATH@/assets/images/2021-02-24-10-23-58-window-1268x1274-800x804.png",
-                "alt": "Haruko Realism",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Realism Sketch",
-                "active": true
-              },
-              {
-                "tags": "Sketches",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/girl-sketch-8-28-2000x2000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/girl-sketch-8-28-2000x2000-800x800.png",
                 "alt": "",
@@ -2204,13 +2191,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/wolf-shield.png",
-                "thumb": "@PROJECT_PATH@/assets/images/wolf-shield-800x847.png",
-                "alt": "",
+                "image": "@PROJECT_PATH@/assets/images/wolf-shield-1500x1588.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wolf-shield-1500x1588-800x847.png",
+                "alt": "Haruko Realism",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Wolf Logo (Commission)",
-                "active": false
+                "caption": "Realism Sketch",
+                "active": true
               },
               {
                 "tags": "Logos",
