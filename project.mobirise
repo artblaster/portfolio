@@ -67,7 +67,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "7qf97pvysf"
   },
   "pages": {
