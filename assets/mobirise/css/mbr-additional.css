@@ -783,8 +783,6 @@ a {
 .cid-sXhvx3gvL9 {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sXhvx3gvL9 nav.navbar {
   position: fixed;
@@ -884,7 +882,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #74183c;
 }
 .cid-sXhvx3gvL9 .navbar.opened {
@@ -1061,7 +1059,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #f49a05;
 }
 .cid-sXhvx3gvL9 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1404,7 +1402,7 @@ a {
 }
 .cid-sZ7PjIXfpI {
   padding-top: 4rem;
-  padding-bottom: 5rem;
+  padding-bottom: 4rem;
   background-color: #74183c;
 }
 .cid-sZ7PjIXfpI .bg-twitter {
@@ -1453,8 +1451,6 @@ a {
 .cid-sXiYxUaUfo {
   z-index: 1000;
   width: 100%;
-  position: relative;
-  min-height: 60px;
 }
 .cid-sXiYxUaUfo nav.navbar {
   position: fixed;
@@ -1554,7 +1550,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #74183c;
 }
 .cid-sXiYxUaUfo .navbar.opened {
