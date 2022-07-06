@@ -783,6 +783,8 @@ a {
 .cid-sXhvx3gvL9 {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-sXhvx3gvL9 nav.navbar {
   position: fixed;
@@ -882,7 +884,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #74183c;
 }
 .cid-sXhvx3gvL9 .navbar.opened {
@@ -1132,7 +1134,7 @@ a {
 }
 .cid-sXhzy9ozGP {
   padding-top: 30px;
-  padding-bottom: 120px;
+  padding-bottom: 30px;
   background-color: #74183c;
   overflow: hidden;
 }
@@ -1140,7 +1142,7 @@ a {
   color: #f49a05;
 }
 .cid-sXj1njaZ25 {
-  padding-top: 0rem;
+  padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/tiled-background2-2000x2000.png");
 }
@@ -1451,6 +1453,8 @@ a {
 .cid-sXiYxUaUfo {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-sXiYxUaUfo nav.navbar {
   position: fixed;
@@ -1550,7 +1554,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
   background: #74183c;
 }
 .cid-sXiYxUaUfo .navbar.opened {
@@ -2649,7 +2653,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #f49a05;
 }
 .cid-ta3GmF9egw button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2730,7 +2734,7 @@ a {
   color: #f49a05;
 }
 .cid-ta3Gfied7N {
-  padding-top: 0rem;
+  padding-top: 3rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/tiled-background2-2000x2000.png");
 }
@@ -3319,7 +3323,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #f49a05;
 }
 .cid-ta3GfjaHVo button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3400,7 +3404,7 @@ a {
   color: #f49a05;
 }
 .cid-ta3GgXVhy5 {
-  padding-top: 0rem;
+  padding-top: 4rem;
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/tiled-background2-2000x2000.png");
 }
