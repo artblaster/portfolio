@@ -36,14 +36,7 @@ body {
 .display-5 > .mbr-iconfont {
   font-size: 1.25rem;
 }
-.display-7 {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 1rem;
-  line-height: 1.5;
-}
-.display-7 > .mbr-iconfont {
-  font-size: 1.25rem;
-}
+
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
 /* 100vw - current viewport width */
