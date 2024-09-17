@@ -1150,7 +1150,7 @@ a {
 }
 .cid-sZ7GW6q56Y {
   padding-top: 10rem;
-  padding-bottom: 10rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/tiled-background2-2000x2000.png");
 }
 .cid-sZ7GW6q56Y img,
@@ -1552,6 +1552,17 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-uoFdEeNyHV {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
+}
+.cid-uoFdEeNyHV .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-uoFdEeNyHV .mbr-text {
+  color: #ffffff;
 }
 .cid-tmwcH6PXDE {
   padding-top: 5rem;
